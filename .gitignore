@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# downloads and cache (big files - don't commit)
+media/
+.cache/
+*.part
+*.tmp
+scenes.with_media.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

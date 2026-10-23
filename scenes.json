@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s01",
+    "start": 0.0,
+    "end": 6.4,
+    "narration": "Every night, millions of lights switch on across the world's biggest cities.",
+    "visual_type": "stock_video",
+    "stock_query": "city skyline night",
+    "orientation": "landscape",
+    "min_duration": 5
+  },
+  {
+    "id": "s02",
+    "start": 6.4,
+    "end": 13.0,
+    "narration": "In 1889, Paris unveiled a tower that critics called an eyesore.",
+    "visual_type": "stock_image",
+    "stock_query": "Eiffel Tower",
+    "orientation": "landscape"
+  },
+  {
+    "id": "s03",
+    "start": 13.0,
+    "end": 19.5,
+    "narration": "Eighty years later, Neil Armstrong stepped onto the Moon and the whole planet watched on television.",
+    "visual_type": "stock_image",
+    "orientation": "landscape"
+  },
+  {
+    "id": "s04",
+    "start": 19.5,
+    "end": 25.0,
+    "narration": "Now picture the city of the future.",
+    "visual_type": "ai_video",
+    "video_prompt": "Slow aerial drone shot over a futuristic city at dusk, glowing towers, cinematic, 16:9",
+    "orientation": "landscape"
+  }
+]

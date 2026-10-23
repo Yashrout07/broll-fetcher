@@ -1,0 +1,4 @@
+requests>=2.28
+python-dotenv>=1.0
+tqdm>=4.64     # optional: progress bars for big downloads
+Pillow>=10.0   # optional: shrinks huge photos (6000px+) to 1920px to save disk space
